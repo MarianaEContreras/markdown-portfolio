@@ -1,4 +1,5 @@
-# This is my first page with 
-## GitHub Pages 
+---
+layout: default
+---
 
-*by Mariana*
+{% include 01-name.md %}
