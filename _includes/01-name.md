@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# This is my first page with 
+## GitHub Pages 
+
+*by Mariana*
